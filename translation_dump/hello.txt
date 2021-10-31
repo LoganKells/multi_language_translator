@@ -1,0 +1,120 @@
+Arabic Translations:
+translation
+مرحبا
+
+Arabic Examples:
+margot, say hello to pavlov.
+(مارجوت)،قولي مرحبًا لـ (بافالوف).
+Don't even say hello anymore.
+لم يعودوا يقولون مرحبًا حتى بعد الآن.
+
+German Translations:
+translation
+hallo
+
+German Examples:
+Finally got a personalized hello from Earl.
+Ich habe endlich ein personifiziertes hallo von Earl bekommen.
+I wanted to... say hello.
+Ich war in der Gegend, ich wollte dich... dir hallo sagen.
+
+Spanish Translations:
+translation
+hola
+
+Spanish Examples:
+Well, hello, Miss Anchor-liar.
+Bien, hola, señorita presentadora de mentiras.
+Just saying hello in Kanpuriya tradition.
+Solo digo Hola en la tradición de Kanpur.
+
+French Translations:
+translation
+bonjour
+
+French Examples:
+Goodbye England and hello the Netherlands...
+Au revoir l'Angleterre et bonjour les Pays-Bas...
+And began appearing hello kitty games online.
+Et a commencé à apparaître bonjour Kitty jeux en ligne.
+
+Hebrew Translations:
+translation
+שלום
+
+Hebrew Examples:
+How come they never say hello?
+איך זה שהן אף פעם לא אומרות שלום.
+Say hello to our newest Greendalian,
+תגידו שלום, לגרינדלי החדש ביותר שלנו!
+
+Japanese Translations:
+translation
+こんにちは
+
+Japanese Examples:
+The little boy said hello to me.
+小さな男の子が私にこんにちはと言った。
+To all aspiring pilots, hello!
+パイロットを目指しているみんな、こんにちは。
+
+Dutch Translations:
+translation
+dag
+
+Dutch Examples:
+Which in Hawaiian means hello and goodbye.
+Dat betekent hallo en tot ziens in het Hawaiiaans.
+"Aloha." It means hello and goodbye.
+Aloha betekend hallo en tot ziens.
+
+Polish Translations:
+translation
+cześć
+
+Polish Examples:
+You had me at "hello".
+Wystarczyło mi twoje "cześć".
+I told him you'd stop in to say hello before the surgery.
+Powiedziałem jego, że zostaniesz by powiedzieć cześć wcześniej chirurgia.
+
+Portuguese Translations:
+translation
+olá
+
+Portuguese Examples:
+Please say hello to Thurman Merman.
+Por favor, digam olá a Thurman Merman.
+Say hello again to Corporal Ron Flegman.
+Diga olá de novo para o Cabo Ron Flegman.
+
+Romanian Translations:
+translation
+salut
+
+Romanian Examples:
+I came by to say hello.
+Am avut o pauză de masă și am trecut să te salut.
+Well, hello, professor Culbertson.
+Ei bine, salut, profesor universitar Culbertson.
+
+Russian Translations:
+translation
+привет
+
+Russian Examples:
+Tell her slipping' Jimmy says hello.
+Передай ей, что Скользкий Джимми передает ей привет.
+Tell Martha... I said hello.
+Скажи Марте... что я передаю ей привет.
+
+Turkish Translations:
+translation
+selam
+
+Turkish Examples:
+Say "hello" from Tito Spadola.
+Tito Spadola'dan, "selam" söyleyeceğim.
+I'll just say a quick hello to Carol.
+Ben de Carol'a hızlıca selam çakayım.
+
